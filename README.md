@@ -8,6 +8,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+|2020.10.16 |	2021.02.24-26 	Montreal, Canada | [ConFoo Montreal Hybride](https://confoo.ca/en/yul2021) | [here](https://confoo.ca/en/yul2021/call-for-papers) | PHP, Java, Ruby, .Net, Node, AI, VR, Cloud, Craftsmanship, Security, Management, Startup|
+
 | 2020.07.15 | 2020.10.08-09 | Budapest, Hungary | [Hacktivity 2020](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
 | 2020.05.31 | 2020.10.12-13 | Prague, Czech Republic | [ReactiveConf 2020](https://reactiveconf.com/) | [here](https://blog.reactiveconf.com/reactiveconf-2020-call-for-papers-is-open-356a554b5b57) | JavaScript, Software Development, Frontend, Design, Meta, Web |
 | 2020.05.10 | 2020.08.28-29 | Kraków, Poland | [dynamIT 2020](https://dynamit.pro/) | [here](https://dynamit.pro/#call4papers) | Programming, soft skills |
